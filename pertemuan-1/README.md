@@ -17,20 +17,13 @@ Materi ini membahas **percabangan kompleks** menggunakan `if-else` dan `switch-c
 4. Lakukan **Latihan Mandiri**:
    - Latihan 1: Menu operasi matematika.
    - Latihan 2: Perhitungan gaji karyawan.
-5. Kerjakan **Tugas Wajib**:
+5. Kerjakan **Latihan Tambahan (Opsional)**:
    - Buat program baru bertema kehidupan sehari-hari yang menggunakan `switch-case`.
 6. Buat laporan berisi:
    - Algoritma (narasi, flowchart, pseudo code).
    - Source code program.
    - Screenshot hasil running.
-   - Refleksi singkat (3–5 kalimat).
-
----
-
-## 📊 Evaluasi
-- Latihan mandiri: **20%**
-- Program kasus gaji: **30%**
-- Tugas wajib: **50%**
+   - Kesimpulan.
 
 ---
 

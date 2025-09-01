@@ -49,7 +49,7 @@ Contoh: *“Memahami penggunaan percabangan kompleks menggunakan if-else dan swi
 
 ### 6. Hasil dan Pembahasan
 - **Source Code Program** (copy-paste kode yang sudah dibuat).  
-- **Screenshot Hasil Running** (minimal 2 contoh input yang berbeda).  
+- **Screenshot Hasil Running & Tugas latihan**.  
 - **Analisis**: jelaskan apakah program sudah sesuai dengan algoritma, bagaimana cara kerja percabangan, dan apa yang terjadi jika input salah.  
 
 ---
