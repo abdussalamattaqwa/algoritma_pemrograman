@@ -11,34 +11,13 @@ Seluruh pertemuan diorganisasikan ke dalam folder terpisah (`pertemuan-1`, `pert
 - Mahasiswa dapat mengimplementasikan algoritma ke dalam program (bahasa C).
 - Mahasiswa terbiasa memecahkan masalah dengan pendekatan sistematis dan logis.
 
----
-
-## 📂 Struktur Repositori
-📦 algoritma-pemrograman
-┣ 📂 pertemuan-1
-┃ ┣ 📂 materi
-┃ ┣ 📂 latihan
-┃ ┣ 📂 tugas
-┃ ┗ README.md
-┣ 📂 pertemuan-2
-┃ ┣ 📂 materi
-┃ ┣ 📂 latihan
-┃ ┣ 📂 tugas
-┃ ┗ README.md
-┣ 📂 pertemuan-3
-┃ ...
-┣ ...
-┗ README.md ← (file ini)
-
 
 ---
 
 ## 📌 Isi Tiap Pertemuan
 Setiap folder `pertemuan-x` berisi:
 1. **Materi** → ringkasan teori + contoh kode.
-2. **Latihan** → contoh soal dan kode program.
-3. **Tugas** → instruksi tugas + folder untuk laporan.
-4. **README.md** → panduan khusus untuk pertemuan tersebut.
+2. **README.md** → panduan khusus untuk pertemuan tersebut.
 
 ---
 
