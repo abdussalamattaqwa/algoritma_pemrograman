@@ -72,7 +72,7 @@ Nol? 0
 
 ---
 
-<!-- ## 🧠 Soal 6 – Bandingkan Berat Badan
+## 🧠 Soal 6 – Bandingkan Berat Badan
 Buat program yang meminta berat badan dua orang dan menampilkan hasil perbandingan menggunakan operator relasional.
 
 **Contoh Output:**
@@ -136,4 +136,4 @@ Kedua nilai di atas 70? 1
 ## 📘 Catatan Tambahan
 - Gunakan hanya **operator relasional dan logika**, tanpa `if` atau `else`.
 - Cetak hasil dalam bentuk **1 (true)** dan **0 (false)** agar mudah dibaca.
-- Gunakan tipe data `int` untuk nilai dan ekspresi boolean bisa langsung ditampilkan. -->
+- Gunakan tipe data `int` untuk nilai dan ekspresi boolean bisa langsung ditampilkan.
